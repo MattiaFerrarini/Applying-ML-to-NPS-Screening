@@ -1,4 +1,4 @@
-# Screening New Psychoactive Substances with ML
+# Applying Machine Learning to New Psychoactive Substances Screening
 
 ## The Project
 The goal of this project is to train and test various ML models on the task of screening New Psychoactive Substances.
