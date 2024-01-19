@@ -3,7 +3,7 @@
 ## The Project
 The goal of this project is to train and test various ML models on the task of screening New Psychoactive Substances.
 
-The project was inspired by the paper _Screening unknown novel psychoactive substances using GC–MS based machine learning_ (Wong et al., 2023), available [here] (https://www.sciencedirect.com/science/article/pii/S2468170923000358).
+The project was inspired by the paper _Screening unknown novel psychoactive substances using GC–MS based machine learning_ (Wong et al., 2023), available [here](https://www.sciencedirect.com/science/article/pii/S2468170923000358).
 In the article, the reseachers employ an ANN, a CNN and a Random Forest to classify various substances. 
 
 This project extends their work by testing different ML models and analysing the feature importances.
