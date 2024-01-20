@@ -38,11 +38,11 @@ An example of this new approach is [[1]](#1), where the authors developed a mach
 |Random Forest | 93.30% |
 |Extra Trees | 90.50% |
 |Decision Tree | 79.89% |
-|SVM | 77.65% |
+|Support Vector Machines | 77.65% |
 |Logistic Regression | 76.54% |
 |Gaussian Naive Bayes | 68.16% |
 |Nearest Centroid | 67.04% |
-
+|K-Nearest Neighbours|65.92%|
 
 ## Credits
 Credit is given to the authors of [[1]](#1) for inspiring the project and providing the data that was used for training the models. This dataset can be found under the paper's _Appendix D. Supplementary data_. 
